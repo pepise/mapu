@@ -1,16 +1,12 @@
 {
   "users": [
     {
-      "username": "kullanici1",
-      "password": "sifre1"
+      "username": "kullaniciadi1",
+      "password": "sifre1234"
     },
     {
-      "username": "kullanici2",
-      "password": "sifre2"
-    },
-    {
-      "username": "kullanici3",
-      "password": "sifre3"
+      "username": "kullaniciadi2",
+      "password": "sifre5678"
     }
   ]
 }
