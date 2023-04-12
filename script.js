@@ -1,4 +1,4 @@
-function validateForm() {
+function login() {
     var username = document.getElementById("username").value;
     var password = document.getElementById("password").value;
   
@@ -8,6 +8,8 @@ function validateForm() {
     } else if (username != "kullaniciadi" || password != "sifre123") {
       alert("Kullanıcı adı veya şifre yanlış.");
       return false;
+    } else {
+      window.location.href = "anasayfa.html";
     }
   }
   
