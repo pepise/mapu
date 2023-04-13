@@ -1,12 +1,12 @@
 {
   "users": [
     {
-      "username": "kullaniciadi1",
-      "password": "sifre1234"
+      "username": "ace",
+      "password": "ace"
     },
     {
-      "username": "kullaniciadi2",
-      "password": "sifre5678"
+      "username": "ego",
+      "password": "ego"
     }
   ]
 }
