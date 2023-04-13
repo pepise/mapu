@@ -7,7 +7,7 @@ function login() {
     return false;
   } else {
     // JSON veritabanını yükle
-    fetch("users.json")
+    fetch("kullanicilar.json")
       .then(response => response.json())
       .then(data => {
         var userExists = false;
