@@ -1,12 +1,18 @@
 {
   "users": [
     {
+      "ad": "ace",
+      "soyad": "ace",
       "username": "ace",
-      "password": "ace"
+      "password": "ace",
+      "email": "ace"
     },
     {
-      "username": "ace2",
-      "password": "ace2"
+      "ad": "Ayşe",
+      "soyad": "Kara",
+      "username": "aysekara",
+      "password": "sifre456",
+      "email": "ayse.kara@example.com"
     }
   ]
 }
